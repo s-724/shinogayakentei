@@ -211,7 +211,7 @@ function shareToTwitter(degree, percentage, member) {
 
 あなたも試験を受けてみよう！`;
 
-  const siteUrl = "https://github.com/s-724/shinogayakentei.git";
+  const siteUrl = "https://s-724.github.io/shinogayakentei/";
 
   const twitterUrl = `https://x.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(siteUrl)}&hashtags=BEPloud,組み分け試験`;
 
