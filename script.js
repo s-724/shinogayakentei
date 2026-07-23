@@ -213,7 +213,7 @@ function shareToTwitter(degree, percentage, member) {
 
   const siteUrl = "https://s-724.github.io/shinogayakentei/";
 
-  const twitterUrl = `https://x.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(siteUrl)}&hashtags=ぁゅ生誕祭,Ayumoon検定`;
+  const twitterUrl = `https://x.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(siteUrl)}&hashtags=篠ヶ谷歩夢,ぁゅ生誕祭,Ayumoon検定`;
 
   window.open(twitterUrl, "_blank", "width=550,height=420");
 }
