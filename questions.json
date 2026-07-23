@@ -1,0 +1,142 @@
+﻿[
+  {
+    "question": "「しのがやあゆむ」の正しい漢字表記を選んでください。",
+    "choices": ["篠ケ谷歩夢", "篠ヶ谷歩夢", "篠ヶ谷歩"],
+    "answer": 1,
+    "member": "プロフィール",
+    "type": "single"
+  },
+  {
+    "question": "彼の出身は？",
+    "choices": ["東京都", "静岡県", "韓国"],
+    "answer": 1,
+    "member": "プロフィール",
+    "type": "single"
+  },
+  {
+    "question": "この中で彼と同学年の練習生は？",
+    "choices": ["O.YUSEI", "RYOTA", "CHISATO"],
+    "answer": 0,
+    "member": "プロフィール",
+    "type": "single"
+  },
+  {
+    "question": "彼が過去出演したことがあるオーディション番組は？",
+    "choices": ["PRODUCE 101 JAPAN", "PRODUCE 101 JAPAN SEASON2", "PRODUCE 101 JAPAN 新世界"],
+    "answer": [1, 2],
+    "member": "プロフィール",
+    "type": "multiple"
+  },
+  {
+    "question":"S.AYUMUのMBTIは？",
+    "choices":["ISFP","ISTP","INFP","INTP"],
+    "answer":1,
+    "member":"プロフィール",
+    "type":"single"
+  },
+  {
+    "question": "S.AYUMUが新世界の1分PR時に使っていた小道具は？",
+    "choices": ["ザコシメガネ", "スライドホイッスル", "オタマトーン"],
+    "answer": [0, 2],
+    "member": "プロフィール",
+    "type": "multiple"
+  },
+ {
+    "question": "彼の自画像は人間ではない生物です。いったい何？",
+    "choices": ["うさぎ", "猫", "魚"],
+    "answer": 2,
+    "member": "ビハインドコンテンツ",
+    "type": "single"
+  },
+  {
+    "question": "日プ新世界時のレベル分けテストの課題曲は？",
+    "choices": ["Rocketeer", "LOUD", "Present"],
+    "answer": 0,
+    "member": "ステージ",
+    "type": "single"
+  },
+  {
+    "question":"梨乃さんに成長を認められた日プ新世界　レベル分けテスト時のおかわりパフォーマンスとは？",
+    "choices":["うなぎパイダンス","オタマトーン","バック転"],
+    "answer":0,
+    "member":"ステージ",
+    "type":"single"
+  },
+   {
+    "question": "S.AYUMUが日プ新世界前に海外で武者修行していたのはどこの国？",
+    "choices": ["韓国", "アメリカ", "フランス"],
+    "answer": [0, 1],
+    "member": "ステージ",
+    "type": "multiple"
+  },
+  {
+    "question": "日プ新世界時のグループバトルの課題曲は？",
+    "choices": ["最高到達点", "Energetic", "LOUD"],
+    "answer": 2,
+    "member": "ステージ",
+    "type": "single"
+  },
+  {
+    "question":"彼がグループバトルのチーム決めの際に1人目に選んだBE Ploudのメンバーは誰？",
+    "choices":["O.YUSEI","RYOTA","CHISATO"],
+    "answer":2,
+    "member":"ステージ",
+    "type":"single"
+  },
+  {
+    "question": "日プ新世界時のポジションバトルの課題曲は？",
+    "choices": ["宿命", "さよなら青春", "ベテルギウス"],
+    "answer": 2,
+    "member": "ステージ",
+    "type": "single"
+  },
+  {
+    "question":"ポジションバトル課題曲の練習時、激励に来てくれたINIのメンバーは？（完答）",
+    "choices":["TAKUMI","KYOSUKE","HIROMU"],
+    "answer":[0,1,2],
+    "member":"ステージ",
+    "type":"multiple"
+  },
+  {
+    "question": "彼が小学生くらいの頃、ある映画に影響され山で２年くらい修行していました。何の映画でしょう？",
+    "choices": ["キングダム", "るろうに剣心", "ゴールデンカムイ"],
+    "answer": 1,
+    "member": "ビハインドコンテンツ",
+    "type": "single"
+  },
+   {
+    "question": "新世界のポジション評価ビハインドにて、彼が自分へのご褒美で買いたいと言っていたものは？",
+    "choices": ["プリン", "ゼリー", "アイス"],
+    "answer": 0,
+    "member": "ビハインドコンテンツ",
+    "type": "single"
+  },
+  {
+    "question": "日プ新世界時のコンセプトバトルの課題曲は？",
+    "choices": ["KICK", "Neko", "Fuego", "DREAMER", "Black Angel"],
+    "answer": 1,
+    "member": "ステージ",
+    "type": "single"
+  },
+ {
+    "question": "新世界のコンテンツより、彼は自認かわいい？かっこいい？",
+    "choices": ["かわいい", "かっこいい"],
+    "answer": 0,
+    "member": "ビハインドコンテンツ",
+    "type": "single"
+  },
+   {
+    "question":"日プ新世界のコンセプトバトル課題曲のうち、踊った動画が「本人SNSに投稿」されている曲は？",
+    "choices":["KICK", "Neko", "Fuego", "DREAMER", "Black Angel"],
+    "answer":[1,2],
+    "member":"本人SNS",
+    "type":"multiple"
+  },
+  {
+    "question":"S.AYUMUのTikTokのアカウント名は？",
+    "choices":["しなもん","シナモン","品物"],
+    "answer":2,
+    "member":"本人SNS",
+    "type":"single"
+  }
+]
